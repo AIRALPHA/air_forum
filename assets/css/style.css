@@ -1,0 +1,36 @@
+body {
+  background: #333;
+  color: #fff; }
+body {
+  background: url("../image/connexion.jpg") no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 700px; }
+#home-section .dark-overlay {
+  background-color: rgba(0, 0, 0, 0.7);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  min-height: 700px; }
+#main-header {
+  padding-top: 200px; }
+#home-section .card-form {
+  opacity: 0.8; }
+#home-section .fa {
+  color: #008ed6;
+  background: #fff;
+  padding: 4px;
+  border-radius: 5px;
+  font-size: 30px; }
+.logo{
+  size: 50px;
+  font-family: Impact;
+  font-size: 30px;
+}
+.connect{
+  size: 20px;
+  font-family: Impact;
+  font-size: 18px;
+
+}

@@ -1,0 +1,16 @@
+.divider{
+    width: 100px;
+    height: 2px;
+    background: #93c6ef;
+    margin: 0 auto;
+}
+
+.heading{
+    text-align: center;
+    margin: 10px 0 60px;
+}
+
+h2{
+    text-transform: uppercase;
+    font-weight: bold;
+}
